@@ -112,13 +112,13 @@ logo1 = """
 
                                                   
 
-╔══──────────────────────────╗─══╗
-║ OWNER 💓💓💓SUJIT BHAI            ║║
-║  GITHUB 💝💝💝 SUJITBHAI(SB)   ║ ║
-║ FACEBOOK 💝💝💝SUJIT-BHAI ║ ║
+╔═══──────────────────────────╗─══╗
+║ OWNER 💓💓💓SUJIT BHAI       ║║
+║  GITHUB 💝💝💝 sujit9870   ║ ║
+║ FACEBOOK 💝💝💝SUJIT BHAI ║ ║
 ║  ENJOY 💝💝💝Pak Cloning                ║ ║
 ║   Note 💝💝💝Use Fastest Speed NeT  ║ ║
-╚══──────────────────────────╝─══╝
+╚══────────────────────
 
 """
 logo2 = """
@@ -141,16 +141,15 @@ logo2 = """
 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝
                                  
                                                    
-                         DON'T COPY MY SCRIPT
-                                      SUJIT BHAI          
-                                        TNX(RK)
-╔══──────────────────────────╗─══╗
-║OWNER 💓💓💓SUJIT BHAI                             ║
-║  GITHUB 💝💝💝 SUJIT BHAI                             ║
-║ FACEBOOK 💝💝💝SUJIT-BHAI                 ║
-║  ENJOY 💝💝💝Pak Cloning                             ║
-║   Note 💝💝💝Use Fastest Speed Net             ║
+                         
+╔═══──────────────────────────╗─══╗
+║ OWNER 💓💓💓SUJIT BHAI       ║║
+║  GITHUB 💝💝💝 sujit9870   ║ ║
+║ FACEBOOK 💝💝💝SUJIT BHAI ║ ║
+║  ENJOY 💝💝💝Pak Cloning                ║ ║
+║   Note 💝💝💝Use Fastest Speed NeT  ║ ║
 ╚══──────────────────────────╝─══╝
+
 """
 print("""
 Owner: SUJIT BHAI
